@@ -1,2 +1,2 @@
 # Artifical-Neuron-Design-Using-Digital-Electronics
-Development of an Artifical Neuron by purely using Digital Electronics
+An Artifical Neuron purely using Digital Electronics mimicing a traffic light controller.
