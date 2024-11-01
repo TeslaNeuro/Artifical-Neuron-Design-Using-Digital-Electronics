@@ -4,9 +4,8 @@
 - Relu Activation function used to develop the Artifical Neuron.
 - It's not a nerual network it only mimics a neuron.
 
-  ### High-level overview or block diagram of the desired system
-
 ![image](https://github.com/user-attachments/assets/72204205-b1e4-4930-b5c9-3bab3d90dc5a)
+        ### High-level overview or block diagram of the desired system
 
 
 ## Digital Neuron Simulation Project
