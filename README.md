@@ -37,9 +37,10 @@ This project leverages basic concepts of neural networks and digital design, inc
 - Pattern Recognition: Detecting specific binary patterns, akin to how neurons detect particular features in a dataset.
 
 ## Future Enhancements
+This high-level digital neuron simulation offers both educational insight into neural network behavior and a practical demonstration of digital design principles.
+
 If time and resources permit, future enhancements could involve:
 
-Extending to Multi-layer Neurons: Expanding this single neuron model to include multiple layers, creating a small neural network.
-Experimenting with Real Hardware: Translating the circuit design from Logisim to physical components.
-Applying Machine Learning Concepts: Integrating this neuron model into larger machine learning frameworks for training and learning tasks.
-This high-level digital neuron simulation offers both educational insight into neural network behavior and a practical demonstration of digital design principles.
+#### Extending to Multi-layer Neurons: Expanding this single neuron model to include multiple layers, creating a small neural network.
+#### Experimenting with Real Hardware: Translating the circuit design from Logisim to physical components.
+#### Applying Machine Learning Concepts: Integrating this neuron model into larger machine learning frameworks for training and learning tasks.
