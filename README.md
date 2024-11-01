@@ -23,11 +23,11 @@ The primary goal of this project is to create a simplified, digital model of a n
 ## Project Structure
 The repository is organized as follows:
 
-- overview.md: A detailed introduction to the project’s context and purpose.
-- system_specifications.md: Breakdown of each digital component, including the bit adder, activation function, pattern recognition circuit, and more.
-- design_and_simulation.md: Design process, circuit diagrams, and simulation details.
-- testing.md: Documentation of testing procedures and validation results.
-- conclusion.md: Summary of project outcomes, observations, and potential future improvements.
+- A detailed introduction to the project’s context and purpose.
+- Breakdown of each digital component, including the bit adder, activation function, pattern recognition circuit, and more.
+- Design process, circuit diagrams, and simulation details.
+- Documentation of testing procedures and validation results.
+- Summary of project outcomes, observations, and potential future improvements.
 
 ## Key Concepts
 This project leverages basic concepts of neural networks and digital design, including:
