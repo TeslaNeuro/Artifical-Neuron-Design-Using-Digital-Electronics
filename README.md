@@ -4,12 +4,13 @@
 - Relu Activation function used to develop the Artifical Neuron.
 - It's not a nerual network it only mimics a neuron.
 
-## Digital Neuron Simulation Project
-This project simulates the function of a single artificial neuron using digital logic components. The neuron, implemented in Logisim, is a foundational part of an artificial neural network (ANN) which is often used in artificial intelligence and machine learning applications. By constructing a neuron with bit adders, activation functions, and other digital logic components, this project provides insights into how a neuron processes input signals and generates outputs based on defined conditions.
-
 ### High-level overview or block diagram of the desired system
 
 ![image](https://github.com/user-attachments/assets/72204205-b1e4-4930-b5c9-3bab3d90dc5a)
+
+
+## Digital Neuron Simulation Project
+This project simulates the function of a single artificial neuron using digital logic components. The neuron, implemented in Logisim, is a foundational part of an artificial neural network (ANN) which is often used in artificial intelligence and machine learning applications. By constructing a neuron with bit adders, activation functions, and other digital logic components, this project provides insights into how a neuron processes input signals and generates outputs based on defined conditions.
 
 ## Project Goals
 The primary goal of this project is to create a simplified, digital model of a neuron that can:
