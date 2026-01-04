@@ -1,8 +1,8 @@
-# Artifical-Neuron-Design-Using-Digital-Electronics
-- An Artifical Neuron purely using Digital Electronics mimicing a traffic light controller.
+# Artificial-Neuron-Design-Using-Digital-Electronics
+- An Artificial Neuron purely using Digital Electronics emulating a traffic light controller.
 - You can simulate and run the .circ file on an application called [Logisim](http://www.cburch.com/logisim/).
-- Relu Activation function used to develop the Artifical Neuron.
-- It's not a nerual network it only mimics a neuron.
+- ReLU Activation function used to develop the Artificial Neuron.
+- It's not a neural network it only emulates a neuron.
 
 ![image](https://github.com/user-attachments/assets/72204205-b1e4-4930-b5c9-3bab3d90dc5a)
                 
